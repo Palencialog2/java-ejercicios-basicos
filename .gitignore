@@ -4,6 +4,7 @@ out/
 
 # Archivos compilados
 *.class
+.iml/
 
 # Sistema operativo
 .DS_Store
