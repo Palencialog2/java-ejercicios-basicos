@@ -1,0 +1,10 @@
+# Carpetas de IntelliJ
+.idea/
+out/
+
+# Archivos compilados
+*.class
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
