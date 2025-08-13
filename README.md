@@ -1,6 +1,6 @@
 # Ejercicios de Java - Ángel Palencia
 
-Este repositorio contiene mis soluciones a distintos ejercicios básicos de Java, organizados por orden y con comentarios que explican **por qué** tomé cada decisión en el código.
+Este repositorio contiene ejercicios de Java que ido haciendo durante mi curso de DAW y ejercicios extraidos de libros. Con la explicación de los elementos y el resultado de cada programa. 
 
 ## 📂 Estructura del repositorio
 - Cada carpeta dentro de `ejercicios/` contiene un ejercicio.
